@@ -1,9 +1,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 # Netflix 🍿🎬
 
-
 ### *A clone of the Netflix application with its basic features. An interesting but unfinished project using various JSON API calls and CoreData.*
-
 
 ## Features
 
